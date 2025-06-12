@@ -1,4 +1,4 @@
-package fr.isima.mobilink.app
+package com.example.greenroad
 
 import org.junit.Test
 
